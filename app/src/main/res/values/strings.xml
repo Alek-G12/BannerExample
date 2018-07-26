@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BannerExample</string>
+    <string name="native_ad_unit_id">/21730163116/codelab</string>
+    <string name="native_template_id">11791117</string>
+</resources>
